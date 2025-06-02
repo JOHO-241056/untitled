@@ -1,4 +1,4 @@
-package textbook.chapter2;
+package textbook.chapter2.practices;
 
 import java.util.Scanner;
 

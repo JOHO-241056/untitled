@@ -1,4 +1,4 @@
-package textbook.chapter2;
+package textbook.chapter2.practices;
 
 public class Practice1 {
     public static void main(String[] args) {
